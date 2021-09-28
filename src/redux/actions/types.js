@@ -1,0 +1,18 @@
+//Types for Sign up objects
+export const SIGNUP_OBJ_SUCCESS = "SIGNUP_OBJ_SUCCESS";
+export const SIGNUP_OBJ_CLEAR = "SIGNUP_OBJ_CLEAR";
+
+//Types for Login
+export const LOGIN_REQUEST_REQUEST = "LOGIN_REQUEST_REQUEST";
+export const LOGIN_REQUEST_SUCCESS = "LOGIN_REQUEST_SUCCESS";
+export const LOGIN_REQUEST_FAILURE = "LOGIN_REQUEST_FAILURE";
+
+//Types for Sign up
+export const SIGNUP_REQUEST = "SIGNUP_REQUEST";
+export const SIGNUP_SUCCESS = "SIGNUP_SUCCESS";
+export const SIGNUP_FAILURE = "SIGNUP_FAILURE";
+
+//Types for Save User Info
+export const SAVE_INFO_REQUEST = "SAVE_INFO_REQUEST";
+export const SAVE_INFO_SUCCESS = "SAVE_INFO_SUCCESS";
+export const SAVE_INFO_FAILURE = "SAVE_INFO_FAILURE";
